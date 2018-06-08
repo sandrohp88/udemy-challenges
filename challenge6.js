@@ -32,7 +32,7 @@ const question1 = (array) => {
 }
 
 const question2 = (array, target) => {
-    // Since you can decompouse a number like target - x = y
+    // Since you can decompose a number like target - x = y
     // Here  x is the first number of the array, so if y 
     // Exists in array, I have my solution, if do not exits,
     // I check with the next x in array.
